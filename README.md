@@ -29,4 +29,4 @@ Update to 2023 and make it responsive and adaptative to different screen sizes:
 
 Show Solution
 
-[View Solution in New Window](https://www.teaching-materials.org/_deprecated/csstools/_deprecated/csstools/exercises/exercise_media_solution)
+[View Solution in New Window](https://stackblitz.com/edit/js-rnsqjc?file=index.js,README.md,index.html)
